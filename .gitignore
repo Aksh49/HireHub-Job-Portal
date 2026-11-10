@@ -14,3 +14,5 @@ frontend/dist/
 # Logs
 *.log
 npm-debug.log*
+
+desktop.ini
